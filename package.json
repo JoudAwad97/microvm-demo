@@ -1,0 +1,8 @@
+{
+  "name": "microvm-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Per-session AI code sandbox — Lambda MicroVMs console demo app",
+  "main": "server.mjs"
+}
